@@ -4,7 +4,7 @@ Pak budi mempunyai sebidang sawah berbentuk persegi, Karena sakit pak budi menju
 ![Contoh Pict](https://i.ibb.co/GWQFF88/Anotasi-2020-08-03-163914.png)
 
 ###### Instruksi:
-- Bagaimana membagi tanah 1/4 kepada 4 orang anak __sama rata__ dan __sama bentuk__.
+- Bagaimana membagi tanah 3/4 kepada 4 orang anak __sama rata__ dan __sama bentuk__.
 - Berikan dalam bentuk gambar
 
 ### 2. Soal PHP Logic
